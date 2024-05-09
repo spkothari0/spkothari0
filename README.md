@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **spkothari0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17BAU1HErHQwigTI4Mp7ePrRZZ-Ut6R7S/view?usp=sharing](https://drive.google.com/file/d/17BAU1HErHQwigTI4Mp7ePrRZZ-Ut6R7S/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17BAU1HErHQwigTI4Mp7ePrRZZ-Ut6R7S/view?usp=sharing](https://drive.google.com/file/d/1YPD4wugu7bSMyvMK-F4Q59w11C-07_-U/view?usp=drive_link)
 
 - ⚡ Fun fact **I have worked on Stardog framework that is very intruging and helpful; yet very few even know about the framework**
 
