@@ -3,7 +3,9 @@
 <h3 align="center">A passionate full stack developer, studying at Northeastern University in CSE</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/073/492/620/original/umer-ahmed-developer-gif-animation.gif?1709777705">
 
-- 🌱 I’m currently learning **Cloud Development,Data Science**
+- 🌱 I’m currently learning **Cloud Development, Software Architecture and System Design**
+
+- ✌️ You should check out my portfolio to learn more details about me: [https://spkothari0.github.io/Shreyas-Portfolio/#/]
 
 - 💬 Ask me about **Got frontend and backend development skills**
 
