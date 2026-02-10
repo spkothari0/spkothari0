@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Development, Software Architecture and System Design**
 
-- ✌️ You should check out my portfolio to learn more details about me: [https://spkothari0.github.io/Shreyas-Portfolio/#/]
+- ✌️ You should check out my portfolio to learn more details about me: [Portfolio](https://spkothari0.github.io/Shreyas-Portfolio/#/)
 
 - 💬 Ask me about **Got frontend and backend development skills**
 
